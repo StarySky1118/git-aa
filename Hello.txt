@@ -1,4 +1,4 @@
-Hello Git!
+Hello Git! This is hot-fix first commit.
 Hello Git!
 Hello Git!
 Hello Git!
