@@ -1,6 +1,6 @@
 Hello Git! This is hot-fix first commit.
 Hello Git! This is hot-fix second commit.
-Hello Git!
+Hello Git! This is why we play.
 Hello Git!
 Hello Git!
 Hello Git!
